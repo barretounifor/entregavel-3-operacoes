@@ -1,0 +1,12 @@
+Para rodar o projeto:
+
+Siga para o site https://go.dev/doc/install
+Siga os passos necessários para instalar o Golang.
+Dê um Git Clone nesse projeto, e ao abrir no terminal, execute o comando abaixo
+-> go run main.go
+
+Caso dê um erro,
+se estiver no mac, digite no terminal:
+export GO111MODULE=off
+
+Pronto! Sua aplicação está funcionando.
